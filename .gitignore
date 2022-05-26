@@ -3,6 +3,7 @@
 .libs/
 
 # Object files, generates by linker
+*.ini
 *.lo
 *.la
 *.o
